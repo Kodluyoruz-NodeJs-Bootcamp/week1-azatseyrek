@@ -1,6 +1,9 @@
 # week1-azatseyrek
 
+Drag-Drop To-Do
 
-live demo :
+In this project, I prepared a to-do application using DRAG & DROP.
 
-https://flaky-aunt.surge.sh/
+You can test it live
+
+Demo Link : flaky-aunt.surge.sh
